@@ -21,7 +21,7 @@ namespace GHPluginLoader
         /// new tabs/panels will automatically be created.
         /// </summary>
         public GHPluginLoaderComponent()
-          : base("GHPluginLoader Component", "Nickname",
+          : base("GHPluginLoader", "PluginLoader",
             "Description of component",
             "Category", "Subcategory")
         {
