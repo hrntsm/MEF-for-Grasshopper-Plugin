@@ -5,12 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GHPluginContract\GHPluginContract.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Grasshopper" Version="7.4.21078.1001" />
-    <PackageReference Include="System.ComponentModel.Composition" Version="5.0.0" />
+    <ProjectReference Include="..\GHPluginContract\GHPluginContract.csproj">
+      <Private>false</Private>
+    </ProjectReference>
   </ItemGroup>
 
 </Project>

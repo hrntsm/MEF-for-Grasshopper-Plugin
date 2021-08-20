@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Grasshopper" Version="7.4.21078.1001" />
+    <PackageReference Include="Grasshopper" Version="6.20.19322.20361" />
+    <PackageReference Include="RhinoCommon" Version="6.20.19322.20361" />
+    <PackageReference Include="System.ComponentModel.Composition" Version="5.0.0" />
   </ItemGroup>
 
 </Project>
