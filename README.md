@@ -7,7 +7,7 @@
 
 ## About this repository
 
-I saw [New way to load a C# .net plugin](https://discourse.mcneel.com/t/new-way-to-load-a-c-net-plugin/31284) on Rhinoceros Forums and it looked interesting, so I'm trying it out. I'm trying it out.
+I saw [New way to load a C# .net plugin](https://discourse.mcneel.com/t/new-way-to-load-a-c-net-plugin/31284) on Rhinoceros Forums and it looked interesting, so I'm trying it out. 
 
 The basic idea is as in the following article, but the article is for Rhino commands, so I'm making one for Grasshopper
 
